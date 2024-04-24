@@ -1,0 +1,86 @@
+{
+    "Notebook": 
+    [
+     {
+        "Marca": "Dell",
+        "Modelo": "1",
+        "Valor": 1600
+     },
+     {
+        "Marca": "Samsung",
+        "Modelo": "2",
+        "Valor": 1500
+     },
+     {
+        "Marca": "Dell",
+        "Modelo": "3",
+        "Valor": 1799
+     },
+     {
+        "Marca":"Acer",
+        "Modelo": "4",
+        "Valor": 2600
+     },
+     {
+        "Marca": "Dell",
+        "Modelo": "5",
+        "Valor": 6300
+     }
+    ],
+    "Celular": 
+    [
+        {
+           "Marca": "Samsung",
+           "Modelo": "M1",
+           "Valor": 2099 
+        },
+        {
+            "Marca": "LG",
+            "Modelo": "M2",
+            "Valor": 1899
+        },
+        {
+            "Marca": "Motorola",
+            "Modelo": "M3",
+            "Valor": 1999
+        },
+        {
+            "Marca": "Huawei",
+            "Modelo": "M4",
+            "Valor": 1799
+        },
+        {
+            "Marca": "Xiaomi",
+            "Modelo": "M5",
+            "Valor": 2600
+        }
+    ],
+    "Acessórios": 
+    [
+        {
+            "Marca": "iOS",
+            "Modelo": "Air Pods",
+            "Valor": 60
+        },
+        {
+            "Marca": "Android",
+            "Modelo": "Android Case",
+            "Valor": 20
+        },
+        {
+            "Marca": "Xiaomi",
+            "Modelo": "Headphone",
+            "Valor": 120
+        },
+        {
+            "Marca": "Samsung",
+            "Modelo": "Samsung Pen",
+            "Valor": 450
+        },
+        {
+            "Marca": "Fifine",
+            "Modelo": "Mic H1",
+            "Valor": 260
+        }
+    ]
+}
