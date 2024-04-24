@@ -3,27 +3,27 @@
     [
      {
         "Marca": "Dell",
-        "Modelo": "1",
+        "Modelo": "Dell gaming",
         "Valor": 1600
      },
      {
         "Marca": "Samsung",
-        "Modelo": "2",
+        "Modelo": "Intel ultra graphics",
         "Valor": 1500
      },
      {
         "Marca": "Dell",
-        "Modelo": "3",
+        "Modelo": "Dell gaming graphics",
         "Valor": 1799
      },
      {
         "Marca":"Acer",
-        "Modelo": "4",
+        "Modelo": "Acer gaming i3",
         "Valor": 2600
      },
      {
         "Marca": "Dell",
-        "Modelo": "5",
+        "Modelo": "Desktop basic",
         "Valor": 6300
      }
     ],
@@ -31,27 +31,27 @@
     [
         {
            "Marca": "Samsung",
-           "Modelo": "M1",
+           "Modelo": "Galaxy A70",
            "Valor": 2099 
         },
         {
             "Marca": "LG",
-            "Modelo": "M2",
+            "Modelo": "LG top de linha",
             "Valor": 1899
         },
         {
             "Marca": "Motorola",
-            "Modelo": "M3",
+            "Modelo": "Hello Motto Silva",
             "Valor": 1999
         },
         {
             "Marca": "Huawei",
-            "Modelo": "M4",
+            "Modelo": "Haio chaio pinchilin",
             "Valor": 1799
         },
         {
             "Marca": "Xiaomi",
-            "Modelo": "M5",
+            "Modelo": "China blasil",
             "Valor": 2600
         }
     ],
